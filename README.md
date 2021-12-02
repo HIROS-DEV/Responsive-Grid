@@ -5,10 +5,10 @@
 ## ScreenShot of the project
 
 ##For Desktop
-<img src="images/desktop.png"/>
+<img src="image/desktop.png"/>
 
 ##For mobile
-<img src="images/phone.png"/>
+<img src="image/phone.png"/>
 
 
 ## Detail of the project
